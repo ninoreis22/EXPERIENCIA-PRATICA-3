@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ONG Esperança</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>ONG Esperança</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="projetos.html">Projetos</a></li>
+        <li><a href="cadastro.html">Cadastro</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Conteúdo SPA será carregado aqui -->
+  </main>
+
+  <footer>
+    <p>&copy; 2025 ONG Esperança — Todos os direitos reservados.</p>
+  </footer>
+
+  <!-- Scripts JS -->
+  <script src="js/templates.js"></script>
+  <script src="js/formValidation.js"></script>
+  <script src="js/spa.js"></script>
+</body>
+</html>
